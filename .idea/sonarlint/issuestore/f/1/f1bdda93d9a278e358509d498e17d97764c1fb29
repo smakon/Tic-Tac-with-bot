@@ -1,105 +1,22 @@
 
-npython:S1192>"ODefine a constant instead of duplicating this literal "Enter a row: " 26 times.(‘ñğ—8ÈÉÏ£µ1
-lpython:S1192,"HDefine a constant instead of duplicating this literal "X wins" 13 times.(°ºô¬şÿÿÿÿ8ÈÉÏ£µ1
-gpython:S11921"HDefine a constant instead of duplicating this literal "O wins" 13 times.(üöö•8ÈÉÏ£µ1
-qpython:S1192>"RDefine a constant instead of duplicating this literal "Enter a column: " 26 times.(‘ñğ—8ÉÉÏ£µ1
-ypython:S1192Ú"YDefine a constant instead of duplicating this literal "â€”â€”â€”â€”â€”â€”â€”\n" 19 times.(å Šé8ÉÉÏ£µ1
-mpython:S1192ò"HDefine a constant instead of duplicating this literal "Move X" 12 times.(ŞÂªøÿÿÿÿ8ÉÉÏ£µ1
-ypython:S1192„"YDefine a constant instead of duplicating this literal " â€”â€”â€”â€”â€”â€”â€”\n" 5 times.(å Šé8ÉÉÏ£µ1
-ipython:S3457!"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-ipython:S3457#"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-ipython:S3457%"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-ipython:S3457'"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-[python:S5754?"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
-\python:S5754ö"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
-jpython:S3457ú"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ü"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ş"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457€"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-\python:S5754—"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
-jpython:S3457›"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457Ÿ"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457¡"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-\python:S5754¹"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
-jpython:S3457½"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457¿"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457Á"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457Ã"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-\python:S5754Ú"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
-jpython:S3457ß"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457á"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ã"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457å"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457é"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ë"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457í"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ï"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ó"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457õ"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457÷"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ù"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ı"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ÿ"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ƒ"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-\python:S5754š"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
-jpython:S3457Ÿ"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457¡"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457£"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457¥"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457©"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457«"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457­"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457¯"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457³"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457µ"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457·"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457¹"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457½"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457¿"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457Á"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457Ã"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-\python:S5754Ú"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
-jpython:S3457ß"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457á"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ã"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457å"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457é"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ë"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457í"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ï"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ô"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ö"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ø"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ú"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-\python:S5754‘"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
-jpython:S3457–"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457˜"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457š"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457œ"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457 "EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457¢"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457¤"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457¦"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457«"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457­"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457¯"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457±"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-\python:S5754È"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
-jpython:S3457Í"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457Ï"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457Ñ"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457Ó"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457×"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457Ù"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457Û"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457İ"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457â"EAdd replacement fields or use a normal string instead of an f-string.(øÂ¨îûÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457ä"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457æ"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-jpython:S3457è"EAdd replacement fields or use a normal string instead of an f-string.(§«Ò¬şÿÿÿÿ8ÉÉÏ£µ1
-\python:S5754ÿ"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
-\python:S5754¶"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
-\python:S5754×"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
-\python:S5754û"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
+npython:S1192:"ODefine a constant instead of duplicating this literal "Enter a row: " 28 times.(‘ñğ—8›Ìû¾µ1
+lpython:S1192("HDefine a constant instead of duplicating this literal "X wins" 14 times.(°ºô¬şÿÿÿÿ8œÌû¾µ1
+gpython:S1192-"HDefine a constant instead of duplicating this literal "O wins" 14 times.(üöö•8Ìû¾µ1
+qpython:S1192:"RDefine a constant instead of duplicating this literal "Enter a column: " 28 times.(‘ñğ—8Ìû¾µ1
+xpython:S1192"YDefine a constant instead of duplicating this literal "â€”â€”â€”â€”â€”â€”â€”\n" 89 times.(å Šé8 Ìû¾µ1
+mpython:S1192ñ"HDefine a constant instead of duplicating this literal "Move X" 13 times.(ŞÂªøÿÿÿÿ8 Ìû¾µ1
+zpython:S1192ù"ZDefine a constant instead of duplicating this literal " â€”â€”â€”â€”â€”â€”â€”\n" 23 times.(å Šé8 Ìû¾µ1
+[python:S5754;"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÉÉÏ£µ1
+\python:S5754õ"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¡Ìû¾µ1
+\python:S5754”"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¡Ìû¾µ1
+\python:S5754³"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¡Ìû¾µ1
+\python:S5754Ò"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¡Ìû¾µ1
+\python:S5754"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¡Ìû¾µ1
+\python:S5754È"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¡Ìû¾µ1
+\python:S5754ú"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¡Ìû¾µ1
+\python:S5754¬"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¡Ìû¾µ1
+\python:S5754Ş"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¡Ìû¾µ1
+\python:S5754"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¡Ìû¾µ1
+\python:S5754°"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¡Ìû¾µ1
+\python:S5754Ï"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¢Ìû¾µ1
+\python:S5754ñ"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¢Ìû¾µ1
